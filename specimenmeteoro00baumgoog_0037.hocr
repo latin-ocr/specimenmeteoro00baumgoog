@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./specimenmeteoro00baumgoog_0037.png"; bbox 0 0 3309 5425; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 618 2097 1066 2181">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 618 2097 1066 2181">
+     <span class='ocr_line' id='line_1_1' title="bbox 618 2097 1066 2181; baseline 0.013 -16"><span class='ocrx_word' id='word_1_1' title='bbox 618 2172 622 2181; x_wconf 32' lang='lat'><strong><em>¹</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 709 2097 853 2171; x_wconf 53' lang='lat' dir='ltr'>Fumo</span> <span class='ocrx_word' id='word_1_3' title='bbox 880 2099 1066 2171; x_wconf 74' lang='lat' dir='ltr'>LIBHARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 701 2270 1040 2383">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 701 2270 1040 2383">
+     <span class='ocr_line' id='line_1_2' title="bbox 775 2270 1010 2319; baseline 0.021 -9"><span class='ocrx_word' id='word_1_4' title='bbox 775 2271 884 2319; x_wconf 62' lang='lat' dir='ltr'>ssTffi,</span> <span class='ocrx_word' id='word_1_5' title='bbox 898 2270 1010 2315; x_wconf 65' lang='lat' dir='ltr'>mox</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 701 2335 1040 2383; baseline 0.027 -12"><span class='ocrx_word' id='word_1_6' title='bbox 701 2335 713 2371; x_wconf 82' lang='lat'>&#39;1</span> <span class='ocrx_word' id='word_1_7' title='bbox 724 2336 830 2381; x_wconf 65' lang='lat' dir='ltr'>ILMN&#39;</span> <span class='ocrx_word' id='word_1_8' title='bbox 841 2338 903 2379; x_wconf 72' lang='lat' dir='ltr'>FOU</span> <span class='ocrx_word' id='word_1_9' title='bbox 916 2339 1040 2383; x_wconf 68' lang='lat' dir='ltr'>mmo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1660 5425">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1660 5425">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1660 5425; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1660 5425; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
